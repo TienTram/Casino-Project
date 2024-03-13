@@ -1,0 +1,5 @@
+Game Log:
+Blackjack: Started with $500, Bet $500, Broke even, End Balance: $1000
+Slot Machine: Started with $1000, Bet $1000, Broke even, End Balance: $2000
+Blackjack: Started with $2000, Bet $2000, Broke even, End Balance: $4000
+Blackjack: Started with $4000, Bet $4000, Won $8000, End Balance: $0
